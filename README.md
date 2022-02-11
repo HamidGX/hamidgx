@@ -8,7 +8,7 @@
 
 |||
 |---|---|
-|![Hamid Escalera's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidgx&show_icons=true&theme=default)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidgx&layout=compact)](https://github.com/hamidgx/github-readme-stats) 
+|![Hamid Escalera's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidgx&show_icons=true&theme=codeSTACKr&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidgx&layout=compact&theme=codeSTACKr )](https://github.com/hamidgx/github-readme-stats) 
 
 <h2>✉️ Contacto</h2>
 <div> 
@@ -28,9 +28,23 @@
   <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logo-gulp" height="30" width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
+  <img align="center" alt="logo-npm" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    <img align="center" alt="logo-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="logo-less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
+  <img align="center" alt="logo-gatsby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original-wordmark.svg" />
+  <img align="center" alt="logo-nodejs" height="30"      width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="logo-bebel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  <img align="center" alt="logo-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img align="center" alt="logo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  
+
   <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="logo-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="logo-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
