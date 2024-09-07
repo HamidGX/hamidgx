@@ -8,8 +8,8 @@
 
 <h2>Github Stats</h2>
 
-| ![Hamid Escalera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidGX&include_all_commits=true&theme=tokyonight&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidGX&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/HamidGX/github-readme-stats) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Hamid Escalera's GitHub stats](https://github-readme-stats-eight-theta-66.vercel.app/api?username=HamidGX&show_icons=true&include_all_commits=true&role=owner&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidGX&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/HamidGX/github-readme-stats) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h2>Contact</h2>
 <div> 
